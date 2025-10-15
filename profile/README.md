@@ -74,12 +74,12 @@ Daleelk bridges this gap by centralizing trip planning, cultural learning, and s
 
 ## 🏗️ Team
 
-| Name | Role | Email |
-|------|------|--------|
-| **Abdulaziz Alkhlaiwe** | Project Lead | 444101708@student.ksu.edu.sa |
-| **Rakan Almousa** | Backend Developer | 444102402@student.ksu.edu.sa |
-| **Abdulwahab Alolayan** | UI/UX Designer | 444102676@student.ksu.edu.sa |
-| **Abdulrahman Alawodah** | Frontend Developer | 444100592@student.ksu.edu.sa |
+| Name | Email |
+|------|--------|
+| **Abdulaziz Alkhlaiwe**| 444101708@student.ksu.edu.sa |
+| **Rakan Almousa** | 444102402@student.ksu.edu.sa |
+| **Abdulwahab Alolayan** | 444102676@student.ksu.edu.sa |
+| **Abdulrahman Alawodah**| 444100592@student.ksu.edu.sa |
 
 Instructor: **Abdulrahman Mohammed Aldkheel**
 
